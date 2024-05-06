@@ -1,0 +1,370 @@
+.desktop {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+}
+
+.desktop .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 123px;
+  top: 0;
+  left: 0;
+  background-color: #bc9abd;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  width: 180px;
+  top: 45px;
+  left: 630px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .frame {
+  position: absolute;
+  width: 194px;
+  height: 258px;
+  top: 167px;
+  left: 164px;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #bc9abd;
+}
+
+.desktop .overlap-group {
+  position: absolute;
+  width: 194px;
+  height: 36px;
+  top: 217px;
+  left: 1px;
+  background-color: #f7c910;
+  border-radius: 10px;
+  box-shadow: 0px 4px 46px 3px #0000001a;
+}
+
+.desktop .text-wrapper-2 {
+  top: 9px;
+  left: 49px;
+  position: absolute;
+  width: 84px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #1a1a1c;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .p {
+  position: absolute;
+  width: 187px;
+  top: 160px;
+  left: 3px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .element {
+  position: absolute;
+  width: 131px;
+  height: 146px;
+  top: 12px;
+  left: 28px;
+  object-fit: cover;
+}
+
+.desktop .frame-2 {
+  width: 194px;
+  height: 258px;
+  top: 167px;
+  left: 614px;
+  position: absolute;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #bc9abd;
+}
+
+.desktop .div-wrapper {
+  position: absolute;
+  width: 194px;
+  height: 36px;
+  top: 218px;
+  left: 0;
+  background-color: #f7c910;
+  border-radius: 10px;
+  box-shadow: 0px 4px 46px 3px #0000001a;
+}
+
+.desktop .text-wrapper-3 {
+  top: 8px;
+  left: 50px;
+  position: absolute;
+  width: 84px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #1a1a1c;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .element-ynjnwml {
+  position: absolute;
+  width: 95px;
+  height: 154px;
+  top: 13px;
+  left: 59px;
+  object-fit: cover;
+}
+
+.desktop .JK-TYRE-challenger {
+  position: absolute;
+  top: 173px;
+  left: 7px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .overlap-wrapper {
+  width: 194px;
+  height: 258px;
+  top: 167px;
+  left: 1072px;
+  position: absolute;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #bc9abd;
+}
+
+.desktop .overlap-2 {
+  position: relative;
+  height: 238px;
+  top: 16px;
+}
+
+.desktop .rectangle {
+  position: absolute;
+  width: 194px;
+  height: 36px;
+  top: 202px;
+  left: 0;
+  background-color: #f7c910;
+  border-radius: 10px;
+  box-shadow: 0px 4px 46px 3px #0000001a;
+}
+
+.desktop .text-wrapper-4 {
+  top: 212px;
+  left: 52px;
+  white-space: nowrap;
+  position: absolute;
+  width: 84px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #1a1a1c;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-5 {
+  position: absolute;
+  width: 178px;
+  top: 162px;
+  left: 14px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .element-yd-ovl {
+  position: absolute;
+  width: 97px;
+  height: 166px;
+  top: 0;
+  left: 45px;
+  object-fit: cover;
+}
+
+.desktop .frame-3 {
+  width: 194px;
+  height: 256px;
+  top: 590px;
+  left: 164px;
+  position: absolute;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #bc9abd;
+}
+
+.desktop .overlap-3 {
+  position: absolute;
+  width: 194px;
+  height: 36px;
+  top: 217px;
+  left: 0;
+  background-color: #f7c910;
+  border-radius: 10px;
+  box-shadow: 0px 4px 46px 3px #0000001a;
+}
+
+.desktop .text-wrapper-6 {
+  top: 10px;
+  left: 52px;
+  white-space: nowrap;
+  position: absolute;
+  width: 84px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #1a1a1c;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .overlap-4 {
+  position: absolute;
+  width: 157px;
+  height: 201px;
+  top: 14px;
+  left: 18px;
+}
+
+.desktop .element-crmacvl {
+  position: absolute;
+  width: 94px;
+  height: 166px;
+  top: 0;
+  left: 32px;
+  object-fit: cover;
+}
+
+.desktop .apollo-tubeless-bike {
+  position: absolute;
+  top: 165px;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .frame-4 {
+  width: 206px;
+  height: 257px;
+  top: 589px;
+  left: 608px;
+  position: absolute;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #bc9abd;
+}
+
+.desktop .overlap-5 {
+  position: absolute;
+  width: 194px;
+  height: 36px;
+  top: 217px;
+  left: 7px;
+  background-color: #f7c910;
+  border-radius: 10px;
+  box-shadow: 0px 4px 46px 3px #0000001a;
+}
+
+.desktop .text-wrapper-7 {
+  position: absolute;
+  width: 84px;
+  top: 9px;
+  left: 50px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #1a1a1c;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .element-zrztikyfl {
+  position: absolute;
+  width: 105px;
+  height: 154px;
+  top: 9px;
+  left: 44px;
+  object-fit: cover;
+}
+
+.desktop .text-wrapper-8 {
+  position: absolute;
+  width: 199px;
+  top: 173px;
+  left: 4px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .frame-5 {
+  width: 206px;
+  height: 257px;
+  top: 589px;
+  left: 1058px;
+  position: absolute;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #bc9abd;
+}
+
+.desktop .element-f-kpajvl {
+  position: absolute;
+  width: 107px;
+  height: 161px;
+  top: 14px;
+  left: 45px;
+  object-fit: cover;
+}
+
+.desktop .text-wrapper-9 {
+  position: absolute;
+  top: 185px;
+  left: 14px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}

@@ -1,0 +1,252 @@
+.desktop {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+}
+
+.desktop .div-2 {
+  position: absolute;
+  width: 1440px;
+  height: 123px;
+  top: 0;
+  left: 0;
+  background-color: #bc9abd;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  width: 180px;
+  top: 45px;
+  left: 630px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .frame {
+  left: 699px;
+  position: absolute;
+  width: 206px;
+  height: 257px;
+  top: 192px;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #bc9abd;
+}
+
+.desktop .overlap-group {
+  position: absolute;
+  width: 194px;
+  height: 36px;
+  top: 214px;
+  left: 7px;
+  background-color: #f7c910;
+  border-radius: 10px;
+  box-shadow: 0px 4px 46px 3px #0000001a;
+}
+
+.desktop .text-wrapper-2 {
+  position: absolute;
+  width: 84px;
+  top: 11px;
+  left: 55px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #1a1a1c;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .vector {
+  position: absolute;
+  width: 19px;
+  height: 13px;
+  top: 15px;
+  left: 176px;
+}
+
+.desktop .element-EWL {
+  position: absolute;
+  width: 111px;
+  height: 111px;
+  top: 38px;
+  left: 47px;
+  object-fit: cover;
+}
+
+.desktop .thrustmaster-ferrari {
+  position: absolute;
+  top: 166px;
+  left: 13px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .frame-2 {
+  left: 302px;
+  position: absolute;
+  width: 206px;
+  height: 257px;
+  top: 192px;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #bc9abd;
+}
+
+.desktop .overlap {
+  position: absolute;
+  width: 194px;
+  height: 36px;
+  top: 214px;
+  left: 4px;
+  background-color: #f7c910;
+  border-radius: 10px;
+  box-shadow: 0px 4px 46px 3px #0000001a;
+}
+
+.desktop .text-wrapper-3 {
+  position: absolute;
+  width: 84px;
+  top: 11px;
+  left: 58px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #1a1a1c;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .element {
+  position: absolute;
+  width: 72px;
+  height: 123px;
+  top: 28px;
+  left: 57px;
+  object-fit: cover;
+}
+
+.desktop .ceat-milaze {
+  position: absolute;
+  top: 166px;
+  left: 8px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .frame-3 {
+  top: 192px;
+  left: 1039px;
+  position: absolute;
+  width: 206px;
+  height: 257px;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #bc9abd;
+}
+
+.desktop .download {
+  position: absolute;
+  width: 129px;
+  height: 107px;
+  top: 31px;
+  left: 36px;
+  object-fit: cover;
+}
+
+.desktop .spedy-bike-exhaust {
+  position: absolute;
+  top: 157px;
+  left: 19px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .frame-4 {
+  top: 527px;
+  left: 303px;
+  position: absolute;
+  width: 206px;
+  height: 257px;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #bc9abd;
+}
+
+.desktop .screenshot {
+  position: absolute;
+  width: 148px;
+  height: 139px;
+  top: 15px;
+  left: 27px;
+  object-fit: cover;
+}
+
+.desktop .text-wrapper-4 {
+  position: absolute;
+  top: 195px;
+  left: 13px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #2e3192;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .group {
+  position: absolute;
+  width: 196px;
+  height: 28px;
+  top: 156px;
+  left: 7px;
+}
+
+.desktop .line {
+  position: absolute;
+  width: 194px;
+  height: 1px;
+  top: -1px;
+  left: 0;
+}
+
+.desktop .text-wrapper-5 {
+  position: absolute;
+  top: 10px;
+  left: 13px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #535865;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
